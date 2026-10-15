@@ -1,0 +1,114 @@
+[
+  {
+    "action_id": "ACT-001",
+    "project_id": "PRJ-001",
+    "description": "Complete security architecture review",
+    "owner": "Security Architecture",
+    "due_date": "2026-09-08",
+    "status": "open"
+  },
+  {
+    "action_id": "ACT-002",
+    "project_id": "PRJ-001",
+    "description": "Validate legacy integration compatibility in the target cloud environment",
+    "owner": "Alex Chen",
+    "due_date": "2026-09-12",
+    "status": "open"
+  },
+  {
+    "action_id": "ACT-003",
+    "project_id": "PRJ-002",
+    "description": "Confirm migration readiness with remaining external partners",
+    "owner": "Priya Shah",
+    "due_date": "2026-09-15",
+    "status": "open"
+  },
+  {
+    "action_id": "ACT-004",
+    "project_id": "PRJ-002",
+    "description": "Publish updated API authentication documentation",
+    "owner": "Integration Engineering",
+    "due_date": "2026-09-05",
+    "status": "complete"
+  },
+  {
+    "action_id": "ACT-005",
+    "project_id": "PRJ-003",
+    "description": "Resolve remaining critical security findings",
+    "owner": "Security Engineering",
+    "due_date": "2026-09-06",
+    "status": "open"
+  },
+  {
+    "action_id": "ACT-006",
+    "project_id": "PRJ-003",
+    "description": "Reallocate engineering capacity to high-priority remediation items",
+    "owner": "Engineering Management",
+    "due_date": "2026-09-04",
+    "status": "open"
+  },
+  {
+    "action_id": "ACT-007",
+    "project_id": "PRJ-004",
+    "description": "Obtain missing source system documentation",
+    "owner": "M&A Technology",
+    "due_date": "2026-09-10",
+    "status": "open"
+  },
+  {
+    "action_id": "ACT-008",
+    "project_id": "PRJ-004",
+    "description": "Complete initial source-to-target data mapping",
+    "owner": "Data Engineering",
+    "due_date": "2026-09-18",
+    "status": "open"
+  },
+  {
+    "action_id": "ACT-009",
+    "project_id": "PRJ-005",
+    "description": "Confirm vendor patch installation in the test environment",
+    "owner": "Marcus Hill",
+    "due_date": "2026-09-07",
+    "status": "complete"
+  },
+  {
+    "action_id": "ACT-010",
+    "project_id": "PRJ-005",
+    "description": "Begin migration testing for secure file transfer integrations",
+    "owner": "Platform Engineering",
+    "due_date": "2026-09-16",
+    "status": "open"
+  },
+  {
+    "action_id": "ACT-011",
+    "project_id": "PRJ-006",
+    "description": "Define AI response quality evaluation criteria",
+    "owner": "Sophia Patel",
+    "due_date": "2026-09-09",
+    "status": "open"
+  },
+  {
+    "action_id": "ACT-012",
+    "project_id": "PRJ-006",
+    "description": "Review incident data fields for privacy and security restrictions",
+    "owner": "Security and Privacy",
+    "due_date": "2026-09-05",
+    "status": "open"
+  },
+  {
+    "action_id": "ACT-013",
+    "project_id": "PRJ-006",
+    "description": "Identify pilot users from the support organization",
+    "owner": "Operations",
+    "due_date": "2026-09-14",
+    "status": "open"
+  },
+  {
+    "action_id": "ACT-014",
+    "project_id": "PRJ-006",
+    "description": "Document the human review process for AI-generated incident summaries",
+    "owner": "Sophia Patel",
+    "due_date": "2026-09-20",
+    "status": "open"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "project_id": "PRJ-001",
+    "name": "Cloud Platform Migration",
+    "description": "Migrate a legacy enterprise application from on-premises infrastructure to a cloud-based hosting environment.",
+    "business_area": "Enterprise Platforms",
+    "project_manager": "Jordan Lee",
+    "technical_owner": "Alex Chen",
+    "status": "yellow",
+    "start_date": "2026-08-01",
+    "target_date": "2026-11-15"
+  },
+  {
+    "project_id": "PRJ-002",
+    "name": "Partner API Modernization",
+    "description": "Modernize legacy partner integrations by replacing older interfaces with secure REST APIs and updated authentication.",
+    "business_area": "Integrations",
+    "project_manager": "Taylor Morgan",
+    "technical_owner": "Priya Shah",
+    "status": "green",
+    "start_date": "2026-07-15",
+    "target_date": "2026-10-30"
+  },
+  {
+    "project_id": "PRJ-003",
+    "name": "SaaS Security Remediation",
+    "description": "Address security findings across a portfolio of SaaS applications and complete required remediation activities.",
+    "business_area": "Security",
+    "project_manager": "Morgan Reed",
+    "technical_owner": "David Kim",
+    "status": "red",
+    "start_date": "2026-06-10",
+    "target_date": "2026-09-30"
+  },
+  {
+    "project_id": "PRJ-004",
+    "name": "Acquisition Systems Integration",
+    "description": "Integrate selected enterprise applications and data from a newly acquired company into the existing technology environment.",
+    "business_area": "Mergers and Acquisitions",
+    "project_manager": "Casey Brooks",
+    "technical_owner": "Elena Garcia",
+    "status": "yellow",
+    "start_date": "2026-07-01",
+    "target_date": "2026-12-15"
+  },
+  {
+    "project_id": "PRJ-005",
+    "name": "Enterprise File Exchange Upgrade",
+    "description": "Upgrade the enterprise secure file exchange platform and migrate existing integrations to the new version.",
+    "business_area": "Enterprise Applications",
+    "project_manager": "Jordan Lee",
+    "technical_owner": "Marcus Hill",
+    "status": "green",
+    "start_date": "2026-08-15",
+    "target_date": "2026-11-30"
+  },
+  {
+    "project_id": "PRJ-006",
+    "name": "AI Support Automation",
+    "description": "Develop an AI-assisted support workflow to help summarize incidents, identify recurring issues, and reduce manual operational triage.",
+    "business_area": "AI and Operations",
+    "project_manager": "Taylor Morgan",
+    "technical_owner": "Sophia Patel",
+    "status": "yellow",
+    "start_date": "2026-08-20",
+    "target_date": "2026-12-20"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "risk_id": "RSK-001",
+    "project_id": "PRJ-001",
+    "title": "Security architecture approval delay",
+    "description": "Security review has not been completed and could delay migration activities.",
+    "severity": "high",
+    "owner": "Security Architecture",
+    "status": "open"
+  },
+  {
+    "risk_id": "RSK-002",
+    "project_id": "PRJ-001",
+    "title": "Legacy dependency compatibility",
+    "description": "A legacy integration may not be fully compatible with the target cloud environment.",
+    "severity": "medium",
+    "owner": "Application Engineering",
+    "status": "open"
+  },
+  {
+    "risk_id": "RSK-003",
+    "project_id": "PRJ-002",
+    "title": "Partner authentication migration",
+    "description": "Some external partners may not complete authentication updates before the legacy interface is retired.",
+    "severity": "medium",
+    "owner": "Integration Engineering",
+    "status": "open"
+  },
+  {
+    "risk_id": "RSK-004",
+    "project_id": "PRJ-003",
+    "title": "Critical remediation backlog",
+    "description": "Several high-priority security findings remain unresolved near the target completion date.",
+    "severity": "high",
+    "owner": "Security Engineering",
+    "status": "open"
+  },
+  {
+    "risk_id": "RSK-005",
+    "project_id": "PRJ-003",
+    "title": "Limited engineering capacity",
+    "description": "Engineering resources are shared with other security initiatives, creating schedule pressure.",
+    "severity": "high",
+    "owner": "Engineering Management",
+    "status": "open"
+  },
+  {
+    "risk_id": "RSK-006",
+    "project_id": "PRJ-004",
+    "title": "Incomplete source system documentation",
+    "description": "Documentation for several acquired applications is incomplete, increasing integration uncertainty.",
+    "severity": "high",
+    "owner": "M&A Technology",
+    "status": "open"
+  },
+  {
+    "risk_id": "RSK-007",
+    "project_id": "PRJ-004",
+    "title": "Data mapping complexity",
+    "description": "Differences in source and target data models may require additional transformation work.",
+    "severity": "medium",
+    "owner": "Data Engineering",
+    "status": "open"
+  },
+  {
+    "risk_id": "RSK-008",
+    "project_id": "PRJ-005",
+    "title": "Third-party vendor upgrade dependency",
+    "description": "A vendor patch is required before migration testing can begin.",
+    "severity": "medium",
+    "owner": "Vendor Management",
+    "status": "mitigated"
+  },
+  {
+    "risk_id": "RSK-009",
+    "project_id": "PRJ-006",
+    "title": "AI response accuracy",
+    "description": "Generated support summaries may omit or misinterpret operational details.",
+    "severity": "high",
+    "owner": "AI Engineering",
+    "status": "open"
+  },
+  {
+    "risk_id": "RSK-010",
+    "project_id": "PRJ-006",
+    "title": "Sensitive data exposure",
+    "description": "Operational incident data may contain information that should not be exposed to the AI model.",
+    "severity": "high",
+    "owner": "Security and Privacy",
+    "status": "open"
+  },
+  {
+    "risk_id": "RSK-011",
+    "project_id": "PRJ-006",
+    "title": "Support team adoption",
+    "description": "Support engineers may be slow to adopt the new AI-assisted workflow.",
+    "severity": "low",
+    "owner": "Operations",
+    "status": "open"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "milestone_id": "MS-001",
+    "project_id": "PRJ-001",
+    "name": "Security Architecture Approval",
+    "target_date": "2026-09-08",
+    "status": "at-risk"
+  },
+  {
+    "milestone_id": "MS-002",
+    "project_id": "PRJ-001",
+    "name": "Cloud Environment Ready",
+    "target_date": "2026-09-22",
+    "status": "not-started"
+  },
+  {
+    "milestone_id": "MS-003",
+    "project_id": "PRJ-002",
+    "name": "Partner Authentication Migration Complete",
+    "target_date": "2026-09-25",
+    "status": "on-track"
+  },
+  {
+    "milestone_id": "MS-004",
+    "project_id": "PRJ-002",
+    "name": "Legacy Interface Retirement",
+    "target_date": "2026-10-15",
+    "status": "on-track"
+  },
+  {
+    "milestone_id": "MS-005",
+    "project_id": "PRJ-003",
+    "name": "Critical Findings Remediated",
+    "target_date": "2026-09-12",
+    "status": "at-risk"
+  },
+  {
+    "milestone_id": "MS-006",
+    "project_id": "PRJ-003",
+    "name": "Security Remediation Validation",
+    "target_date": "2026-09-24",
+    "status": "at-risk"
+  },
+  {
+    "milestone_id": "MS-007",
+    "project_id": "PRJ-004",
+    "name": "Source System Inventory Complete",
+    "target_date": "2026-09-15",
+    "status": "at-risk"
+  },
+  {
+    "milestone_id": "MS-008",
+    "project_id": "PRJ-004",
+    "name": "Initial Data Mapping Complete",
+    "target_date": "2026-09-30",
+    "status": "not-started"
+  },
+  {
+    "milestone_id": "MS-009",
+    "project_id": "PRJ-005",
+    "name": "Vendor Patch Installed",
+    "target_date": "2026-09-07",
+    "status": "complete"
+  },
+  {
+    "milestone_id": "MS-010",
+    "project_id": "PRJ-005",
+    "name": "Migration Testing Complete",
+    "target_date": "2026-10-10",
+    "status": "on-track"
+  },
+  {
+    "milestone_id": "MS-011",
+    "project_id": "PRJ-006",
+    "name": "AI Quality Evaluation Framework Defined",
+    "target_date": "2026-09-18",
+    "status": "not-started"
+  },
+  {
+    "milestone_id": "MS-012",
+    "project_id": "PRJ-006",
+    "name": "Privacy Review Complete",
+    "target_date": "2026-09-22",
+    "status": "at-risk"
+  },
+  {
+    "milestone_id": "MS-013",
+    "project_id": "PRJ-006",
+    "name": "Pilot Support Team Launch",
+    "target_date": "2026-10-05",
+    "status": "not-started"
+  }
+]

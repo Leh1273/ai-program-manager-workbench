@@ -1,0 +1,83 @@
+[
+  {
+    "dependency_id": "DEP-001",
+    "project_id": "PRJ-001",
+    "dependency": "Security architecture approval",
+    "owner": "Security Architecture",
+    "required_by": "2026-09-08",
+    "status": "at-risk",
+    "impact": "Cloud migration activities cannot begin until security approval is complete."
+  },
+  {
+    "dependency_id": "DEP-002",
+    "project_id": "PRJ-001",
+    "dependency": "Legacy integration compatibility validation",
+    "owner": "Application Engineering",
+    "required_by": "2026-09-12",
+    "status": "open",
+    "impact": "Migration sequencing may change if the legacy integration is not compatible with the target environment."
+  },
+  {
+    "dependency_id": "DEP-003",
+    "project_id": "PRJ-002",
+    "dependency": "External partner authentication updates",
+    "owner": "Partner Engineering",
+    "required_by": "2026-09-25",
+    "status": "open",
+    "impact": "Legacy interfaces cannot be retired until all required partners complete authentication updates."
+  },
+  {
+    "dependency_id": "DEP-004",
+    "project_id": "PRJ-003",
+    "dependency": "Engineering capacity allocation",
+    "owner": "Engineering Management",
+    "required_by": "2026-09-06",
+    "status": "at-risk",
+    "impact": "Security remediation may miss the target date if additional engineering capacity is not assigned."
+  },
+  {
+    "dependency_id": "DEP-005",
+    "project_id": "PRJ-004",
+    "dependency": "Source system documentation",
+    "owner": "M&A Technology",
+    "required_by": "2026-09-10",
+    "status": "at-risk",
+    "impact": "Integration design and data mapping cannot be completed accurately without sufficient source system documentation."
+  },
+  {
+    "dependency_id": "DEP-006",
+    "project_id": "PRJ-004",
+    "dependency": "Source-to-target data mapping",
+    "owner": "Data Engineering",
+    "required_by": "2026-09-30",
+    "status": "open",
+    "impact": "Application integration testing cannot begin until initial data mapping is complete."
+  },
+  {
+    "dependency_id": "DEP-007",
+    "project_id": "PRJ-005",
+    "dependency": "Vendor patch availability",
+    "owner": "Vendor Management",
+    "required_by": "2026-09-07",
+    "status": "complete",
+    "impact": "Migration testing would be blocked if the required vendor patch were unavailable."
+  },
+  {
+    "dependency_id": "DEP-008",
+    "project_id": "PRJ-006",
+    "dependency": "Privacy and security review",
+    "owner": "Security and Privacy",
+    "required_by": "2026-09-22",
+    "status": "at-risk",
+    "impact": "Pilot testing cannot begin until approved data handling and privacy requirements are defined."
+  },
+  {
+    "dependency_id": "DEP-009",
+    "project_id": "PRJ-006",
+    "dependency": "AI evaluation framework",
+    "owner": "AI Engineering",
+    "required_by": "2026-09-18",
+    "status": "open",
+    "impact": "The team cannot reliably measure response quality or approve pilot readiness without evaluation criteria."
+  }
+]
